@@ -1,4 +1,4 @@
-basepath = '/home/ scanner3d/scanner/'
+basepath = '/home/scanner3d/scanner/'
 from os.path import isfile
 
 def load_bool(name):
